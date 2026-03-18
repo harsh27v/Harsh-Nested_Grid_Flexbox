@@ -18,6 +18,11 @@ No installation required, simply download the zip file and extract.
 Open index.html in your choice browser.
 
 ## Contributing
+Fork it!
+Create your feature branch: git checkout -b my-new-feature
+Commit your changes: git commit -am 'Add some feature'
+Push to the branch: git push origin my-new-feature
+Submit a pull request :D
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
